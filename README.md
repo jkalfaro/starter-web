@@ -16,3 +16,8 @@ deployment
 
 ## How to contribute
 PPP
+
+## Copyright
+
+2020 Git.Training
+
