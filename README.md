@@ -15,7 +15,8 @@ purpose
 deployment
 
 ## How to contribute
-PPP
+
+Please fork this repository
 
 ## Copyright
 
