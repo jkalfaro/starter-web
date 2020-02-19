@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kevin Alfaro ptwalfaro@gmail.com
 
 # THANKS
 
-	Kevin Alfaro ptwalfaro@gmail.com
+	Thanks to Accenture fot giving this training for free :)
 	
 # TECHNOLOGY COLOPHON
 
